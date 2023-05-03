@@ -1,0 +1,12 @@
+/* For devices smaller than 400px: */
+body {
+    background-image: url('../../images/damasco 4pc.jpg');
+    background-color: beige;
+  }
+  
+  /* For devices 400px and larger: */
+  @media only screen and (min-device-width: 400px) {
+    body {
+      background-image: url('img_flowers.jpg');
+    }
+  }

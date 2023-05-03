@@ -1,0 +1,99 @@
+img{
+    max-width: 50%;
+    height: auto;
+}
+
+h1 {
+    padding-left: 50px;
+    font-size: 25;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:brown;
+}
+P {
+    padding-left: 50px;
+    font-size: 12;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(204, 28, 28); 
+    max-width: 500px;
+}
+
+li {padding-left: 50px;
+    font-size: 19;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(240, 8, 8); 
+}
+body{
+    padding-left: 50px;
+    border-color: aqua;
+    background-color: rgb(241, 233, 117);
+    max-width: 1200px;
+}
+/* For devices 400px and larger: */
+/* @media only screen and (min-device-width: 600px) {
+    body {
+      background-color: red;
+    }
+  }*/
+
+
+  pre {
+    max-width: 700px;
+    max-height: 200px;
+    overflow: auto;
+    background-color: rgb(241, 233, 117);
+    border: 1px solid black; 
+  }
+pre:hover {
+    background-color: rgba(241, 233, 21, 0.3);
+    color: black;
+}
+table:hover {
+color: nth-
+
+}
+
+
+nav{
+    padding-left: 50px;
+    background-color: rgb(240, 162, 67);
+    max-height: 300;
+    min-height: 150;
+    max-width: 900px;
+    
+}
+section {
+
+  max-height: 800;
+  min-height: 200;  
+  background-image: '../campanitas 4pc.jpg';
+}
+
+article p {
+     font-size: 15;
+     color: rgb(18, 2, 2)
+
+}
+
+#tabla1 tr:nth-child(even) {background-color: lightblue;}
+
+#tabla1 tr:hover {background-color: red;}
+
+#encabezado {
+    background-color: rgb(226, 128, 43);
+    padding: 10px;
+    /*padding-left: 20px;*/
+   /* padding-top: 30px;-->*/
+    text-align: center;
+    max-width: 900px;
+}
+
+pre {font-size: 15;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(240, 8, 8); 
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }

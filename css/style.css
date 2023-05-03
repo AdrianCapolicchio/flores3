@@ -1,0 +1,28 @@
+p {
+font-size: 12;
+font-family: Verdana;
+   color: rgb(58, 4, 4);
+   background-color: #959595;
+   
+max-width: 250px;
+margin-left: 10%;
+   margin-top: 20%;
+   margin-bottom: 20%;
+   margin-right: 10%;
+
+
+
+}
+body {
+
+   background-color: rgb(100, 100, 100);
+   margin-left: 10%;
+   margin-top: 20%;
+   margin-bottom: 20%;
+   margin-right: 10%;
+}
+h1 {
+font-size: 55;
+font-family: Verdana;
+
+}

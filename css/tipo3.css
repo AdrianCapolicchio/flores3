@@ -1,0 +1,32 @@
+* { 
+    padding: 20px;
+}
+img{
+    float: right;
+    max-width: 30%;
+    heigth: auto;
+}
+
+nav{
+    max-height: 110px;
+    min-height: 50px;
+    max-width: 600px;
+    background-color: rgb(240, 162, 67);
+}
+
+
+
+body{
+
+background-color: rgb(241, 233, 117);
+max-width: 800;
+
+}
+pre {
+    font-size:58;
+    color:rgb(6, 6, 6);
+}
+
+p {
+    max-width: 600px;
+}
